@@ -1,0 +1,1 @@
+This repository demonstrates a simple, yet easily overlooked, bug in HTML. The bug involves a typo in the commonly used `document.getElementById` method, which can lead to unexpected behavior or errors.  The solution highlights the correct usage of `document.getElementById`.
